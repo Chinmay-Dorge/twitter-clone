@@ -1,0 +1,11 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.app{
+  display: grid;
+  grid-template-columns: 1.3fr 2.1fr 0.9fr;
+  background-color: black;
+  color: white;
+}
